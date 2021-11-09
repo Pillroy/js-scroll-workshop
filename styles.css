@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+#first-section,
+#second-section {
+  height: 100vh;
+  width: 100vw;
+}
+
+#first-section {
+  background-color: aqua;
+}
+
+#second-section {
+  background-color: burlywood;
+}
+
+h1 {
+  margin: 0;
+}
